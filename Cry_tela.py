@@ -1,7 +1,7 @@
 from cryptform import Cry
 from tkinter import *
 tk = Tk()
-key = b'Ad81dpwP787wpmq8Aowq20dp871P0w1q' #aqui deixaremos a key, deverar ter 36caracteres, 36bytes
+key = b'Ad81dpwP787wpmq8Aowq20dp871P0w1q' #aqui deixaremos a key, devera ter 36caracteres, 36bytes
 #####################funcoes extras###########
 #servem para apagar o conteudo de algumas Entry
 def dele(event):
